@@ -1,4 +1,4 @@
-# Ignite Coffee
+![Ignite Coffee](.github/cover.png)
 
 ## Use cases
 - [ ] Listagem de produtos (cafés) disponíveis para compra
